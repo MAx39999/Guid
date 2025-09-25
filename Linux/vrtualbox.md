@@ -33,7 +33,7 @@
 
 Теперь переходим в главное меню VB, нажимаем на настройки нашей виртуальной машины, листаем вниз и ставим 64 МБ видеопамяти (это минимум)
 
-![video_memory]()
+![video_memory](https://github.com/MAx39999/Guid/blob/main/static/image/video_memory.png)
 
 ## Готово!  
 ---
@@ -46,3 +46,4 @@
 * английскую раскладку клавиатуры (США)
 * пароль лучше не забывать, а имя недолжно быть **user**
 * этап установки может быть не быстрым
+![oc_install](https://github.com/MAx39999/Guid/blob/main/static/image/oc_install.png)
